@@ -37,7 +37,7 @@ echo ""
 echo "Chegando a integridade dos pacotes do sistema, ou seja, verificando se não há dependências quebradas...."
 if ! apt-get check
 then
-    echo "Erro ao realizar a checagem da integridade dos pacotes do sistema! Chame o Alex Pedrozo"
+    echo "Erro ao realizar a checagem da integridade dos pacotes do sistema! Chame o Alex Suporte"
     exit 1
 fi
 echo ""
